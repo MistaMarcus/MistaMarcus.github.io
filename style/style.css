@@ -1,0 +1,19 @@
+
+.rules {
+
+font-family: 'Kalam', cursive;
+max-width: 1080px;
+margin: auto;
+padding-top: 50px;
+}
+
+.rules h1 {
+  text-align: center;
+}
+
+body {
+background-image: url('img/TLDpic.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+font-weight: 700;
+}
